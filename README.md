@@ -1,8 +1,8 @@
-Web Scraper & Sentiment Analysis (NLP) Dashboard
+# Web Scraper & Sentiment Analysis (NLP) Dashboard
 
 🔴 LIVE APP: https://omer-sentiment-app.streamlit.app
 
-(MENTOR NOTE: You must upload your screenshot to this repo, get the raw link, and paste it here)
+![Sentiment Dashboard Screenshot](https://raw.githubusercontent.com/omerhabib62/streamlit-sentiment-analyzer/main/sentiment_screenshot.png)
 
 1. Project Overview
 
