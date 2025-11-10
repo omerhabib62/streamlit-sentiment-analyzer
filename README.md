@@ -2,7 +2,7 @@
 
 🔴 LIVE APP: https://omer-sentiment-app.streamlit.app
 
-![Sentiment Dashboard Screenshot](https://raw.githubusercontent.com/omerhabib62/streamlit-sentiment-analyzer/main/sentiment_screenshot.png)
+![Sentiment Dashboard Screenshot](https://raw.githubusercontent.com/omerhabib62/streamlit-sentiment-analyzer/master/sentiment_screenshot.png)
 
 1. Project Overview
 
